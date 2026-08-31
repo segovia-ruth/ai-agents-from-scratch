@@ -438,7 +438,7 @@ Educational resource - use and modify as needed for learning.
 
 Start with `intro/` and work your way through. Each example builds on the previous one. Read both CODE.md and CONCEPT.md for full understanding.
 
-Happy learning! 
+Happy learning! 🥰
 
 ---
 
